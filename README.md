@@ -19,10 +19,6 @@ Introducing my recent Weather App project, developed with HTML, CSS, and JavaScr
 7. Open your browser to the web application's home page: [http://localhost:8000/](http://localhost:8000/)
 8. In the text field, enter a location that is tracked by the Open Weather service.  Select the magnifying glass icon.
 
-    ![Report the weather for a location](assests/found.png "Found")
-
 9. *Note that many locations are not tracked.  If you get a `404`, try a larger city close to your location.*
-
-    ![Report 'not found' if a location is not avaialable](assests/not-found.png "Not Found")
 
 10. Stop the applicaiton by typing `CTRL+C` in the terminal where the app was started. 
